@@ -13,8 +13,7 @@ Uma API para calcular as raízes de uma equação quadrática utilizando a fórm
 
 - Java
 - Spring Boot
-- Spring Security
-- JPA (Java Persistence API)
+- Spring Securit
 - Maven
 
 ## Instalação
