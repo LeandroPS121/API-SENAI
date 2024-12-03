@@ -2,10 +2,6 @@
 
 Uma API para calcular as raízes de uma equação quadrática utilizando a fórmula de Bhaskara, além de registrar usuários e manter um histórico de cálculos.
 
-## Descrição
-
-A Bhaskara API permite que os usuários se registrem e realizem cálculos de raízes quadráticas. A aplicação também armazena um histórico dos cálculos realizados por cada usuário, permitindo que eles acessem suas operações anteriores.
-
 ## Funcionalidades
 
 - Registro de usuários com nome, email e senha.
